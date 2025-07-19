@@ -1,0 +1,16 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" fill="white"/>
+  
+  <!-- KSU Logo simplified -->
+  <rect x="10" y="10" width="40" height="40" fill="#0039A6" rx="5"/>
+  <text x="30" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">KSU</text>
+  
+  <!-- University Text -->
+  <text x="60" y="25" fill="#0039A6" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+    KENNESAW STATE
+  </text>
+  <text x="60" y="40" fill="#0039A6" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+    UNIVERSITY
+  </text>
+</svg>

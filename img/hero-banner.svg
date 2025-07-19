@@ -1,0 +1,22 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#f8f9fa"/>
+  
+  <!-- Center for Applied Computing Banner -->
+  <rect x="20" y="40" width="360" height="120" fill="#0039A6" rx="10"/>
+  
+  <!-- Text -->
+  <text x="200" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    CENTER FOR
+  </text>
+  <text x="200" y="105" text-anchor="middle" fill="#FFB81C" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    APPLIED COMPUTING
+  </text>
+  <text x="200" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    Innovation • Research • Excellence
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="60" cy="100" r="15" fill="#FFB81C" opacity="0.3"/>
+  <circle cx="340" cy="100" r="15" fill="#FFB81C" opacity="0.3"/>
+</svg>
